@@ -12,4 +12,6 @@
 
 ## 工具推荐
 
+[Mac工具推荐](https://liuqinh2s.github.io/2017/01/Mac%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/)
+
 ## 疑难杂症
